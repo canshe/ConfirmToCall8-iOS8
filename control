@@ -1,0 +1,9 @@
+Package: com.canshe.confirmtocall8
+Name: ConfirmToCall8
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: confirm, then call or cancel.
+Maintainer: canshe
+Author: canshe
+Section: Tweaks
